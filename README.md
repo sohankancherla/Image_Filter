@@ -4,7 +4,7 @@
 
 An Image Filtering program built in C. The program can convert an image into grayscale, mirror, blur, detect edges.
 
-Starter code provided by CS50
+Starter code provided by CS50.
 
 ## How to Run
 
@@ -26,7 +26,7 @@ example: ```./filter -g images/courtyard.bmp courtyard_gray.bmp```
 
 input image: path to the input image (must be .bmp extension)
 
-output image: path and filename for the filtered image (must be a .bmp extenstion)
+output image: path for the filtered image (must be .bmp extenstion)
 
 ## Output
 
