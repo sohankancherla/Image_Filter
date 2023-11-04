@@ -1,4 +1,4 @@
-# Image_Filter
+# Image Filter
 
 ## Project Description
 
